@@ -1,3 +1,42 @@
+#include <ctime>
+#include <functional>
+#include <iostream>
+#include <memory>
+#include <string>
+#include <asio.hpp>
+
+using asio::ip::tcp;
+
+std::string make_daytime_string()
+{
+  using namespace std; // For time_t, time and ctime;
+  time_t now = time(0);
+  return ctime(&now);
+}
+
+class tcp_connection
+  : public std::enable_shared_from_this<tcp_connection>
+{
+public:
+  typedef std::shared_ptr<tcp_connection> pointer;
+
+  static pointer create(asio::io_context& io_context)
+  {
+    return pointer(new tcp_connection(io_context));
+  }
+
+  tcp::socket& socket()
+  {
+    return socket_;
+  }
+
+  void start()
+  {
+    message_ = make_daytime_string();
+
+    asio::async_write(socket_, asio::buffer(message_),
+        std::bind(&tcp_connection::handle_write, shared_from_this(),
+          std::placeholders::_1,
           std::placeholders::_2));
   }
 
