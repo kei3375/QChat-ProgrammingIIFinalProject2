@@ -1,0 +1,1 @@
+g++ server.cpp -o main.exe -IC:\msys64\mingw64\include -lws2_32
