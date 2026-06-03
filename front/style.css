@@ -1,0 +1,31 @@
+header {
+    float:right;
+    width: 80%;
+    height: 100px;  /* roboczo */
+    background-color: black;
+}
+
+.side-pannel {
+    float: left;
+    width: 20%;
+    height: 600px;  /* roboczo */
+    background-color: bisque;
+}
+.me{
+    float: left;
+    width: 20%;
+     height: 100px; /* roboczo */
+    background-color: brown;
+}
+.chat{
+    float: right;
+    width: 80%;
+    height: 600px;  /* roboczo */
+    background-color: blueviolet;
+}
+.text {
+    width: 80%;
+    float: right;
+     height: 100px; /* roboczo */
+    background-color: aliceblue;
+}
