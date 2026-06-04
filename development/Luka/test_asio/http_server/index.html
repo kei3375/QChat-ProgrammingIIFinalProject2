@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    hello world
+    <br>
+    <br>
+    <button onclick="showtime()">what time is it</button>
+    <p id="time">time?</p>
+
+
+
+<script>
+async function showtime() {
+    // let time = "the time is now";
+
+    const res = await fetch("/time");
+    const time = await res.text();
+
+    document.getElementById("time").innerHTML = time;
+}
+</script>
+</body>
+</html>
