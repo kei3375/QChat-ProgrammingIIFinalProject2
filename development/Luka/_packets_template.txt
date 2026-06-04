@@ -1,0 +1,23 @@
+frame template byte by byte
+0 - header always 'F'
+1 - type, existing types:
+    'T' - text message
+    'F' - file
+    'V' - voicecall frame
+    'O' - organisational frame, used for communication with sever, or managing errors between users
+    'C' - used for communication between browser window and client
+2 - byte indicating if it's the first packet:
+    0 - one and only packet (used if it's one packet message)
+    1 - first packet of many (if this byte is set to 1, than packetID (byte[7-8-9-10-11-12]) part gives the total number of packets used in a message)
+    2 - following packet
+3-4-5-6 - message ID, that prevents mixing different messages that are being sent at the same time
+7-8-9-10-11-12 - packet ID
+    starts with 0 ends with the number of final packet
+    if byte[2] is set to 1, than this packet means the amount of all packets within this message
+    that means:
+        0xfffffffffffe - max number of data packets
+13-507 - actual data
+    that means 495 bytes of data per packet
+    that means:
+        0xfffffffffffe * 495B = 126719.99 TB
+508-509-510-511 - checksum CRC32 (if it's being sent as TCP, the checksum is unnecessary and those bytes will be ignored)
