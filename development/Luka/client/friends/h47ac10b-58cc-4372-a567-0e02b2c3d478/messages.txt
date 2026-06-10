@@ -1,0 +1,1364 @@
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera
+date:2026-06-07
+time:13:31:12
+$end
+$friend
+message:treść wiadomości przyjaciela
+date:2026-06-07
+time:13:30:01
+$end
+
+//dowolna ilość linijek przerwy
+//tu może być cokolwiek i nie może wpływać na to, co jest wysyłane do klienta
+
+$you
+message:treść wiadomości tego usera. ostatnia wiadomość
+date:2026-06-07
+time:13:31:12
+$end
+
+$you
+message:hello
+date:2026-06-05
+time:15:38:19
+$end
+
+$you
+message:oooo
+date:2026-06-05
+time:15:38:22
+$end
+
+$you
+message:działa 
+date:2026-06-05
+time:15:38:23
+$end
+
+$you
+message:lesssgooo
+date:2026-06-05
+time:15:38:25
+$end
+
+$you
+message:dzień dobry
+date:2026-06-05
+time:15:40:25
+$end
+
+$you
+message:faktyzcnie działa
+date:2026-06-05
+time:15:40:29
+$end
+
+$you
+message:niceeeee
+date:2026-06-05
+time:15:40:31
+$end
+
+$you
+message:<h1> wow </h1>
+date:2026-06-05
+time:15:40:36
+$end
