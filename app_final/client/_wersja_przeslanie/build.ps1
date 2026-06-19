@@ -1,0 +1,2 @@
+#g++ main.cpp -o main.exe -IC:\msys64\mingw64\include -LC:\msys64\ucrt64\lib -lssl -lcrypto -lws2_32 -lmswsock -lcrypt32 -static
+g++ main.cpp -o main.exe -IC:\msys64\mingw64\include -LC:\msys64\ucrt64\lib -lssl -lcrypto -lws2_32 -lmswsock -lcrypt32 -liphlpapi -static

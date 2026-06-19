@@ -1,0 +1,32 @@
+      <div id="settings-modal" style="display:none; position:fixed; inset:0; 
+     background:rgba(0,0,0,0.7); z-index:100; align-items:center; justify-content:center;">
+  <div style="background:var(--surface); border:1px solid var(--border); 
+       border-radius:12px; padding:24px; width:300px; display:flex; 
+       flex-direction:column; gap:14px;">
+    <div style="font-size:0.7rem; letter-spacing:2px; color:var(--text-dim);">settings</div>
+    
+    <label style="cursor:pointer;">
+      <div class="my-avatar" id="settings-preview" 
+           style="width:64px;height:64px;font-size:1rem;margin:0 auto;"></div>
+      <div style="text-align:center;font-size:0.65rem;color:var(--text-dim);margin-top:6px;">
+        click to set profile picture
+      </div>
+      <input id="settings-pfp-input" type="file" accept="image/jpeg,image/png" 
+             style="display:none;">
+    </label>
+
+    <div class="input-wrap">
+      <span class="input-prompt">></span>
+      <input id="settings-name-input" type="text" placeholder="nowa nazwa..." autocomplete="off">
+    </div>
+
+    <div style="display:flex; gap:8px;">
+      <div class="op-item" id="settings-name-save" style="flex:1; justify-content:center;" onclick="setTimeout(function(){location.reload();},300);">
+        Save
+      </div>
+      <div class="op-item danger" id="settings-close" style="flex:1; justify-content:center;">
+        Close
+      </div>
+    </div>
+  </div>
+</div>

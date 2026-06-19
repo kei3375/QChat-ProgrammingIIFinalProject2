@@ -1,0 +1,17 @@
+$friend
+message:Jako zespół QChat witamy w naszej aplikacji. Mamy nadzieję że to będzie początek wspaniałeś przygody - wolnej od inwigilacji.
+date:2026-06-10
+time:01:34:01
+$end
+
+$fr iend
+message:QChat jest oparty o zasadę zgody. Nikt nie może wysyłać Ci wiadomości jeśli Ty tego nie chcesz.
+date:2026-06-10
+time:01:34:01
+$end
+
+$friend
+message:W trakcie działania programu cały czas wysyłasz pakiety swoim znajomym. Wiadomości będą docierać do drugiej strony tylko jeśli z sukcesem dokonano wymiany kluczy i znajomy jest w tym momencie online. 
+date:2026-06-10
+time:01:34:01
+$end
